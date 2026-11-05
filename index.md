@@ -4,11 +4,13 @@
 
 
 # Hi, I’m Tim Raymond 👋
-
+<br>
+<br>
 ### Educator · Researcher · FAST Lab Director
-
+<br>
+<br>
 **Human factors • Applied AI • Community-centered innovation**
-
+<br>
 ---
 
 ### 🧠 Understanding people. 🛠️ Building possibilities.
