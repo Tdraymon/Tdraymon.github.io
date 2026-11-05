@@ -26,13 +26,13 @@ My work explores how people learn, make decisions, and interact with
 systems—and how we can use that understanding to create meaningful
 opportunities for students and communities.
 <br>
-🎓 **Teaching & Mentorship**  
+- **Teaching & Mentorship**  
 Psychology, research methods, writing, and emerging technologies
 <br>
-🔬 **Applied Research**  
+- **Applied Research**  
 Human factors, workplace safety, well-being, and responsible AI
 <br>
-⚙️ **Making & Innovation**  
+- **Making & Innovation**  
 Additive manufacturing, prototyping, and workforce development
 <br>
 <br>
