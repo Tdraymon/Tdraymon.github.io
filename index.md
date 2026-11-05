@@ -4,14 +4,14 @@
 # Hi, I’m Tim Raymond 👋
 <br>
 <br>
-### Educator · Researcher · FAST Lab Director
+# Educator · Researcher · FAST Lab Director
 <br>
 <br>
 **Human factors • Applied AI • Community-centered innovation**
 <br>
 ---
 
-### 🧠 Understanding people. 🛠️ Building possibilities.
+# 🧠 Understanding people. 🛠️ Building possibilities.
 
 I serve as **Human Studies Department Chair** and **FAST Lab Director**
 at **Keweenaw Bay Ojibwa Community College**, connecting psychology,
