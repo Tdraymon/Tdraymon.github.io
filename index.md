@@ -22,14 +22,14 @@ opportunities for students and communities.
 <br>
 🎓 **Teaching & Mentorship**  
 Psychology, research methods, writing, and emerging technologies
-
+<br>
 🔬 **Applied Research**  
 Human factors, workplace safety, well-being, and responsible AI
-
+<br>
 ⚙️ **Making & Innovation**  
 Additive manufacturing, prototyping, and workforce development
-
-
+<br>
+<br>
 *“Tradition Shapes Our Innovation.”*
 
 
