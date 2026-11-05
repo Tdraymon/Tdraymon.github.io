@@ -1,6 +1,7 @@
 # ”This is going to be a <span style="background-color: #ffff00; padding: 2px 4px;">pretty cool</span> portfolio page….I think.” - Tim Raymond
 
-<div align="center">
+<p style="text-align: center;">
+
 
 # Hi, I’m Tim Raymond 👋
 
@@ -32,8 +33,8 @@ Additive manufacturing, prototyping, and workforce development
 ---
 
 *“Tradition Shapes Our Innovation.”*
-</align>
-</div>
+
+</p>
 
 ### Responsible AI Checklists
 
