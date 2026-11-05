@@ -9,18 +9,17 @@
 <br>
 **Human factors • Applied AI • Community-centered innovation**
 <br>
----
-
-# 🧠 Understanding people. 🛠️ Building possibilities.
-
+<br>
+### 🧠 Understanding people. 🛠️ Building possibilities.
+<br>
 I serve as **Human Studies Department Chair** and **FAST Lab Director**
 at **Keweenaw Bay Ojibwa Community College**, connecting psychology,
 technology, and hands-on learning.
-
+<br>
 My work explores how people learn, make decisions, and interact with
 systems—and how we can use that understanding to create meaningful
 opportunities for students and communities.
-
+<br>
 🎓 **Teaching & Mentorship**  
 Psychology, research methods, writing, and emerging technologies
 
