@@ -1,7 +1,7 @@
 # ”This is going to be a <span style="background-color: #ffff00; padding: 2px 4px;">pretty cool</span> portfolio page….I think.” - Tim Raymond
 
 
-# Hi, I’m Tim Raymond 👋
+# Boozhoo, Tim Indizhibnikaaz 👋
 <br>
 <br>
 # Educator · Researcher · FAST Lab Director
