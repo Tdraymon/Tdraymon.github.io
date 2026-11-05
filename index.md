@@ -1,7 +1,5 @@
 # ”This is going to be a <span style="background-color: #ffff00; padding: 2px 4px;">pretty cool</span> portfolio page….I think.” - Tim Raymond
 
-<p style="text-align: center;">
-
 
 # Hi, I’m Tim Raymond 👋
 <br>
@@ -32,11 +30,9 @@ Human factors, workplace safety, well-being, and responsible AI
 ⚙️ **Making & Innovation**  
 Additive manufacturing, prototyping, and workforce development
 
----
 
 *“Tradition Shapes Our Innovation.”*
 
-</p>
 
 ### Responsible AI Checklists
 
