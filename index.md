@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="Img/me1" alt="The San Juan Mountains are beautiful" width="30%">
+  <img src="Img/me1" alt="TDR" width="30%">
 
 </p>
 
