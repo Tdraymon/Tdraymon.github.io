@@ -9,7 +9,8 @@
 
 # Boozhoo, Tim Indizhibnikaaz 👋
 <br>
-<p align=“center”>Educator · Researcher · FAST Lab Director 
+<p align=“center”>
+  # Educator · Researcher · FAST Lab Director 
 </p>
 <br>
 <br>
