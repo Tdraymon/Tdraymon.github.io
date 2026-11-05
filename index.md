@@ -9,7 +9,8 @@
 
 # Boozhoo, Tim Indizhibnikaaz 👋
 <br>
-# <p align = “center”>Educator · Researcher · FAST Lab Director </p>
+# <p align=“center”>Educator · Researcher · FAST Lab Director 
+</p>
 <br>
 <br>
 **Human factors • Applied AI • Community-centered innovation**
