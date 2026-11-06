@@ -65,3 +65,10 @@ and evaluation planning.
 <p align="center">
   <sub>“This is going to be a pretty cool portfolio page… I think.” — Tim Raymond</sub>
 </p>
+<p align="center">
+  <em>
+    <a href="https://journals.sagepub.com/doi/full/10.1177/10711813251357883">
+      Read my published research on work safety perceptions and employee engagement in Tribal Colleges
+    </a>
+  </em>
+</p>
